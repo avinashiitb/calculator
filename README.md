@@ -1,4 +1,4 @@
-# News-Frontend Code
+# Calculator Code
 
 ### For Local Development
 
